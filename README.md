@@ -1,4 +1,4 @@
-# Remote-Desktop-Control
+# Remote access of a system to another system.
 
 This project allows us to control a desktop remotely from another system, it is developed in java.
 
